@@ -1,0 +1,24 @@
+
+Folder Structure :-
+
+project_root/
+|-- public/
+|-- src/
+    |-- components/
+    |   |-- Common/
+    |       |-- Header.js
+    |       |-- Footer.js
+    |-- pages/
+    |   |-- Home.js
+    |   |-- UserList.js
+    |   |-- UserProfile.js
+    |   |-- AddUser.js
+    |-- services/
+    |   |-- api.js
+    |-- styles/
+    |   |-- main.css
+    |-- App.js
+    |-- index.js
+|-- package.json
+|-- README.md
+|-- .gitignore
